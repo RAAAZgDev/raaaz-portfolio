@@ -10,7 +10,7 @@ I enjoy exploring gameplay possibilities, designing player experiences, and tran
 ## Featured Projects
 
 ### Ninja Training
-**2D Mobile Platformer | Unity | C#**
+**Mobile Endless Climber | Unity | C#|**
 
 My first independent game project, developed under RaaaZ Games.
 
