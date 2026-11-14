@@ -22,6 +22,15 @@ My first independent game project, developed under RaaaZ Games.
 
 **Status:** Closed Testing.
 
+#### My Contributions
+
+- Designed and implemented the core gameplay mechanics.
+- Developed gameplay systems using Unity and C#.
+- Created approximately 80% of the game's visual assets.
+- Produced character animations frame by frame using Krita.
+- Designed game progression and gameplay systems.
+- Used AI tools to assist with selected code improvements and external SDK integrations.
+
 ### Kid Soldier
 **Top-Down Action Prototype | Unity | C#**
 
